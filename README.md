@@ -15,5 +15,6 @@ Simplify URL handling and app launching in Flutter apps with the `url_launcher` 
 
 ## Screenshot
 ![UI](https://github.com/ckkashi/url_launcher_flutter/blob/master/ss.jpg){height=800px width=480px}
+<img src="https://github.com/ckkashi/url_launcher_flutter/blob/master/ss.jpg" alt="UI" width="480" height="800">
 
 For detailed instructions, see [documentation](https://pub.dev/packages/url_launcher).
