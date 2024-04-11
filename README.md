@@ -14,6 +14,6 @@ Simplify URL handling and app launching in Flutter apps with the `url_launcher` 
 3. Use `launch()` function to open URLs or other apps.
 
 ## Screenshot
-![UI](https://raw.githubusercontent.com/ckkashi/url_launcher_flutter/ss.jpg)
+![UI](https://github.com/ckkashi/url_launcher_flutter/blob/master/ss.jpg)
 
 For detailed instructions, see [documentation](https://pub.dev/packages/url_launcher).
